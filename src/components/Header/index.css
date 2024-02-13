@@ -1,0 +1,26 @@
+.logout-button {
+  background-color: transparent;
+  border-style: solid;
+  border-color: white;
+  color: white;
+  border-width: 1px;
+  border-radius: 5px;
+  height: 5vh;
+  width: 12vh;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.nav-bar {
+  background-color: #183b56;
+  height: 10vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo-image {
+  height: 7vh;
+  width: 22vh;
+  margin-left: 10px;
+}

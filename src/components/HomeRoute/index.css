@@ -1,0 +1,21 @@
+.home-route-bg-container {
+  background-color: #183b56;
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  color: white;
+  align-self: center;
+  font-size: 30px;
+}
+
+.digital-card {
+  height: 45%;
+  width: 38%;
+}
